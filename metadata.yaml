@@ -1,5 +1,8 @@
 _repo: America-Being-the-Latest-and-Most-Accurate-Description-of-the-Nevv-Vvorld-Containing-the-Orig__59745
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59745-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Ogilby, John
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '50607'
     url: http://www.gutenberg.org/2009/agents/50607
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59745#America-Being-the-Latest-and-Most-Accurate-Description-of-the-Nevv-Vvorld-Containing-the-Orig_
 gutenberg_issued: '2019-06-13'
 gutenberg_type: Text
 identifiers:
